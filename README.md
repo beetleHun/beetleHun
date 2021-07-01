@@ -1,7 +1,7 @@
 ### Hello World 👋
 I am a fullstack software engineer from Hungary.
-- 🔭 Working on multiple frontend and backend projects using Angular 9, RxJS, REST, Java 11, SpringBoot
-- 🌱 Learning bout Spring and SOLID principles
+- 💻 Working on multiple frontend and backend projects using Angular 9, RxJS, REST, Java 11, SpringBoot
+- 📖 Learning about Spring and SOLID principles
 <br>
 
 ## Connect with me
