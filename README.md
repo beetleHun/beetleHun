@@ -1,6 +1,6 @@
 ### Hello World 👋
 I am a fullstack software engineer from Hungary.
-- 💻 Working on multiple frontend and backend projects using Angular 14, RxJS, REST, Java 11, SpringBoot, Strapi, NodeJs
+- 💻 Working on multiple frontend and backend projects using Angular 16, RxJS, REST, Java 17, SpringBoot, PostgreSQL, Strapi, NestJs, MongoDB
 <br>
 
 ## Connect with me
